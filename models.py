@@ -25,4 +25,4 @@ class Resume(BaseModel):
     skills: List[str] = []
     educations: List[Education] = []
     work_experiences: List[WorkExperience] = []
-    YoE: Optional[str]
+    YoE: Optional[str] = None  
