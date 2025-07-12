@@ -1,0 +1,48 @@
+{
+  "name": "Terrance Ryan",
+  "contact_number": "555-555-5555",
+  "email": "example@example.com",
+  "skills": [
+    "Group and individual instruction",
+    "High school math education",
+    "Progress reporting",
+    "Communication and interpersonal skills",
+    "Critical-thinking",
+    "Physical stamina",
+    "Classroom management",
+    "Conflict resolution"
+  ],
+  "educations": [
+    {
+      "institution": "Georgia College And State University",
+      "start_date": null,
+      "end_date": null,
+      "location": "Milledgeville, GA",
+      "degree": "Bachelor of Science\nMathematics"
+    }
+  ],
+  "work_experiences": [
+    {
+      "company": "Cherokee High School",
+      "start_date": "September 2011",
+      "end_date": "Current",
+      "location": "Canton , GA",
+      "role": "High School Math Teacher"
+    },
+    {
+      "company": "Sequoyah High School",
+      "start_date": "September 2009",
+      "end_date": "June 2011",
+      "location": "Canton , GA",
+      "role": "Math Teaching Assistant"
+    },
+    {
+      "company": "Sequoyah High School",
+      "start_date": "September 2008",
+      "end_date": "June 2009",
+      "location": "Canton , GA",
+      "role": "Student Teacher"
+    }
+  ],
+  "YoE": "seven"
+}
