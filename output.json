@@ -1,29 +1,43 @@
 {
-  "name": "John Doe",
-  "contact_number": "+1-123-456-7890",
-  "email": "john.doe@example.com",
+  "name": "NHAN DOAN",
+  "contact_number": null,
+  "email": "nickdoan2005@gmail.com",
   "skills": [
-    "Python",
-    "SQL",
-    "Machine Learning"
+    "Python (3yrs)",
+    "JavaScript (1yrs)",
+    "Java (1yrs)",
+    "Git",
+    "MATLAB",
+    "Latex (basic)",
+    "Swift",
+    "React Native",
+    "Data Structures",
+    "Algorithms",
+    "System Programming",
+    "Software Tools",
+    "Component & Design Techniques for Digital Systems",
+    "Principles of UX/UI Design",
+    "Depth-First Search (DFS)",
+    "Breadth-First Search (BFS)",
+    "JUnit"
   ],
   "educations": [
     {
-      "institution": "University of Example",
-      "start_date": "2015-09",
-      "end_date": "2019-05",
-      "location": "Boston, MA",
-      "degree": "B.Sc in Computer Science"
+      "institution": "University of California San Diego",
+      "start_date": null,
+      "end_date": "June 2027",
+      "location": null,
+      "degree": "Math & Computer Science"
     }
   ],
   "work_experiences": [
     {
-      "company": "Tech Company Inc.",
-      "start_date": "2019-06",
-      "end_date": "2023-03",
-      "location": "San Francisco, CA",
-      "role": "Software Engineer"
+      "company": "I.VALUE, Vietnam",
+      "start_date": "Dec 2023",
+      "end_date": "Mid Jan 2024",
+      "location": null,
+      "role": "Negotiation Intern"
     }
   ],
-  "YoE": "4 years"
+  "YoE": null
 }
